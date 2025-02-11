@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="reset_action">Réinitialiser le formulaire</string>
+
+    <string name="page_name">Formulaire</string>
+
+    <string name="field_lastname">Nom</string>
+    <string name="field_firstname">Prénom</string>
+    <string name="field_birthday">Date de naissance</string>
+    <string name="field_birthplace">Ville de naissance</string>
+    <string name="field_birthDepartment">Département de naissance</string>
+
+    <string name="button_add">Ajouter un numéro</string>
+    <string name="button_remove">Supprimer un numéro</string>
+    <string name="button_submit">Valider le formulaire</string>
+</resources>

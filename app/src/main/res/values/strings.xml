@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="reset_action">Reset Form</string>
+
+    <string name="page_name">Form</string>
+
+    <string name="field_lastname">Last Name</string>
+    <string name="field_firstname">First Name</string>
+    <string name="field_birthday">Date of Birth</string>
+    <string name="field_birthplace">Place of Birth</string>
+    <string name="field_birthDepartment">Birth department</string>
+
+    <string name="button_add">Add Phone Number</string>
+    <string name="button_remove">Remove Phone Number</string>
+    <string name="button_submit">Submit Form</string>
+</resources>
