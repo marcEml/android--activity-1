@@ -14,4 +14,9 @@
     <string name="button_add">Add Phone Number</string>
     <string name="button_remove">Remove Phone Number</string>
     <string name="button_submit">Submit Form</string>
+
+    <string name="research_wikipedia">Search on Wikipédia</string>
+    <string name="share">Share</string>
+    <string name="share_whatsapp">Share with WhatsApp</string>
+    <string name="share_email">Share with Email</string>
 </resources>

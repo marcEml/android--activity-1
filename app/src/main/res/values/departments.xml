@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="departments">
-        <item></item>
+        <item>select a department</item>
         <item>Côtes d\'Armor</item>
         <item>Finistère</item>
         <item>Ille et Vilaine</item>

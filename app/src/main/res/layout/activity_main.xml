@@ -162,20 +162,6 @@
             app:layout_constraintTop_toBottomOf="@+id/phoneContainer" />
 
         <!-- Button to Remove Phone Number -->
-        <Button
-            android:id="@+id/removePhoneButton"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="20dp"
-            android:layout_marginTop="20dp"
-            android:layout_marginEnd="20dp"
-            android:backgroundTint="#C18884"
-            android:onClick="removePhoneNumber"
-            android:text="@string/button_remove"
-            android:textColorLink="#FFFFFF"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/addPhoneButton" />
 
         <!-- Final Validation Button -->
         <Button
@@ -183,7 +169,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
-            android:layout_marginTop="60dp"
+            android:layout_marginTop="30dp"
             android:layout_marginEnd="20dp"
             android:backgroundTint="#3EE3FF"
             android:onClick="validateAction"
@@ -191,7 +177,7 @@
             android:textColorHint="#FFFFFF"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/removePhoneButton" />
+            app:layout_constraintTop_toBottomOf="@+id/addPhoneButton" />
 
         <Spinner
             android:id="@+id/spinner"
